@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701101731 source:c:\users\quinton watercloset\onedrive - ghana communication technology university\desktop\cpp\workregister\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
